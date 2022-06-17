@@ -1,0 +1,1 @@
+docker build -t mysql-master:0.1 .
